@@ -1,3 +1,14 @@
+print """
+ File: <smoothheaviside.py>
+
+Copyright (c) 2016 <Andre Perkins>
+
+License: MIT
+
+Ls to represent a list. We define bar to attach a string to star so that
+ for the values inside the list will be represented by stars
+"""
+
 import math
 def H_eps(x, eps = 0.01):
     result = 0
