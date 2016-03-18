@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Andre Perkins
 
-**Due date:** _\<date\>_
+**Due date:** 3/18/16
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\HW 4 Assingment
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+Slice, coulumns, machine count numbers in a particular list or bracket. Test eps
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Andre Perkins
